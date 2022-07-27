@@ -1,0 +1,5 @@
+# @package _group_
+data_root_dir: /media/data/lyh/lama/filted_pic/adai/output
+out_root_dir: /media/data/lyh/lama/filted_pic/adai/out_root
+tb_dir: /media/data/lyh/lama/filted_pic/adai/tb_logs
+pretrained_models: /media/data/lyh/lama/filted_pic/adai/inpainting_lama
